@@ -1,0 +1,29 @@
+{
+  "name": "pngquantjs",
+  "version": "1.0.0",
+  "description": "PNG Quant port to browser compatible javascript.",
+  "main": "pngquant.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyedouble/pngquantjs.git"
+  },
+  "keywords": [
+    "png",
+    "quantiation",
+    "compress",
+    "optimize",
+    "javascript",
+    "js",
+    "browser",
+    "client"
+  ],
+  "author": "I. van Wel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyedouble/pngquantjs/issues"
+  },
+  "homepage": "https://github.com/eyedouble/pngquantjs#readme"
+}
